@@ -1,0 +1,13 @@
+# ignore these folders
+__pycache__/
+images/
+
+# ignore these file types
+*.json
+*.db
+*.db-journal
+*.pyc
+.env
+
+# ignore this specific file
+secrets.py
